@@ -9,7 +9,7 @@ class LivroService {
   static const _prazo = Duration(seconds: 15);
 
   static const _headers = {
-    'Content-Type': 'application-json; charset=UTF-8',
+    'Content-Type': 'application/json; charset=UTF-8',
     'Accept': 'application/json',
   };
 
